@@ -1,4 +1,4 @@
 
-let name ='Uwielbiam JavaScript!';
+let napis = "Uwielbiam JavaScript!";
 
-console.log('Uwielbiam JavaScript!');
+console.log(napis);
